@@ -1,0 +1,26 @@
+============================================================
+RESUME: B E Kavish Karthikeyan
+Bachelor of Technology in Computer Science and Engineering (B.Tech CSE) | SRM University Ramapuram (2026 - 2030)
+Email: kavish.karthikeyan@srmist.edu.in | Location: Chennai, Tamil Nadu, India
+============================================================
+
+EDUCATION:
+• SRM Institute of Science and Technology, Ramapuram Campus
+  Bachelor of Technology in Computer Science and Engineering (B.Tech CSE)
+  Tenure: 2026 – 2030 | Recently completed 12th grade
+
+CORE SKILLS:
+• Programming: Python
+• Databases: Database Management
+• Python Database Interface: Connecting Python applications with databases
+• Computer Networks: Networking fundamentals
+
+KEY PROJECTS:
+1. Python Practice Programs - Beginner Python exercises
+2. Database Learning Notes - Database and Python connection practice
+
+CURRENT STATUS:
+• No formal achievements yet
+• Beginning my college learning journey
+• 200+ DSA problems solved through self-study
+============================================================

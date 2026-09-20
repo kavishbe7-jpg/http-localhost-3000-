@@ -1,0 +1,28 @@
+============================================================
+RESUME: B E Kavish Karthikeyan
+Bachelor of Technology in Computer Science and Engineering (B.Tech CSE) | SRM University Ramapuram (2026 - 2030)
+Email: kavish.karthikeyan@srmist.edu.in | Location: Chennai, Tamil Nadu, India
+============================================================
+
+EDUCATION:
+• SRM Institute of Science and Technology, Ramapuram Campus
+  Bachelor of Technology in Computer Science and Engineering (B.Tech CSE)
+  Tenure: 2026 – 2030 | Current Target CGPA: 9.48 / 10.0
+
+CORE SKILLS:
+• Languages: TypeScript, JavaScript (ESNext), C++, Python, Java
+• Frontend: React 19, Motion, Tailwind CSS v4, Next.js, Vite
+• Backend: Node.js, Express, PostgreSQL, MongoDB, Firebase
+• CS Core: Data Structures & Algorithms, OS, DBMS, Networks
+
+KEY PROJECTS:
+1. SRM CampusConnect 360 - Smart campus portal for SRM Ramapuram
+2. Velocity Motion Component Lab - 120 FPS micro-interactions
+3. AlgoVision - Interactive DSA algorithm visualizer in 3D
+4. NovaPulse - Realtime market terminal with WebGL rendering
+
+HONORS & LEADERSHIP:
+• 1st Place, SRM Ramapuram TechSpark Hackathon (2026)
+• 350+ LeetCode Problem Solving continuous streak
+• Technical Lead, SRM Ramapuram Open Source Society
+============================================================
